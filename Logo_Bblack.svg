@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300.41 74.96">
     <defs>
         <style>
-            .cls-1-1{fill:#3a3a3a; animation: moveIn 2s ease-in-out forwards, moveOut 3s ease-in-out 5s forwards;}
-            .cls-1-2{fill:#3a3a3a; animation: moveIn 2.5s ease-in-out forwards, moveOut 3s ease-in-out 5.5s forwards;}
-            .cls-1-3{fill:#3a3a3a; animation: moveIn 3s ease-in-out forwards, moveOut 3s ease-in-out 6s forwards;}
-            .cls-1-4{fill:#3a3a3a; animation: moveIn 3.5s ease-in-out forwards, moveOut 3s ease-in-out 6.5s forwards;}
-            .cls-1-5{fill:#3a3a3a; animation: moveIn 4s ease-in-out forwards, moveOut 3s ease-in-out 7s forwards;}
-            .cls-1-6{fill:#3a3a3a; animation: moveIn 4.5s ease-in-out forwards, moveOut 3s ease-in-out 7.5s forwards;}
-            .cls-1-7{fill:#3a3a3a; animation: moveIn 5s ease-in-out forwards, moveOut 3s ease-in-out 8s forwards;}
-            .cls-1-8{fill:#3a3a3a; animation: moveIn 5.5s ease-in-out forwards, moveOut 3s ease-in-out 8.5s forwards;}
-            .cls-1-9{fill:#3a3a3a; animation: moveIn 6s ease-in-out forwards, moveOut 3s ease-in-out 9s forwards;}
-            .cls-1-10{fill:#3a3a3a; animation: moveIn 1.5s ease-in-out forwards, moveOut 3s ease-in-out 4.5s forwards;}
-            .cls-1-11{fill:#3a3a3a; animation: moveIn 0.5s ease-in-out forwards, moveOut 3s ease-in-out 3.5s forwards;}
+            .cls-1-1{fill:#ffffff; animation: moveIn 2s ease-in-out forwards, moveOut 3s ease-in-out 5s forwards;}
+            .cls-1-2{fill:#ffffff; animation: moveIn 2.5s ease-in-out forwards, moveOut 3s ease-in-out 5.5s forwards;}
+            .cls-1-3{fill:#ffffff; animation: moveIn 3s ease-in-out forwards, moveOut 3s ease-in-out 6s forwards;}
+            .cls-1-4{fill:#ffffff; animation: moveIn 3.5s ease-in-out forwards, moveOut 3s ease-in-out 6.5s forwards;}
+            .cls-1-5{fill:#ffffff; animation: moveIn 4s ease-in-out forwards, moveOut 3s ease-in-out 7s forwards;}
+            .cls-1-6{fill:#ffffff; animation: moveIn 4.5s ease-in-out forwards, moveOut 3s ease-in-out 7.5s forwards;}
+            .cls-1-7{fill:#ffffff; animation: moveIn 5s ease-in-out forwards, moveOut 3s ease-in-out 8s forwards;}
+            .cls-1-8{fill:#ffffff; animation: moveIn 5.5s ease-in-out forwards, moveOut 3s ease-in-out 8.5s forwards;}
+            .cls-1-9{fill:#ffffff; animation: moveIn 6s ease-in-out forwards, moveOut 3s ease-in-out 9s forwards;}
+            .cls-1-10{fill:#ffffff; animation: moveIn 1.5s ease-in-out forwards, moveOut 3s ease-in-out 4.5s forwards;}
+            .cls-1-11{fill:#ffffff; animation: moveIn 0.5s ease-in-out forwards, moveOut 3s ease-in-out 3.5s forwards;}
             .cls-2{fill:#c7000a; animation: moveIn 1s ease-in-out forwards, moveOut 3s ease-in-out 4s forwards;}
             @keyframes moveIn {
             from { transform: translateX(-100px); opacity: 0; }
@@ -23,7 +23,7 @@
             }
         </style>
     </defs>
-    <title>Logo_Bwhite</title>
+    <title>Logo_Bblack</title>
     <g id="レイヤー_1" data-name="レイヤー 1">
         <path class="cls-1-1" d="M73.74,25.77H64.6V18.55H90.14v7.22H81V57H73.74Z"/>
         <path class="cls-1-2" d="M99.59,49.7h14.64V57h-22V27.7h22V45.58H99.59Zm0-14.67V40h7.31V35Z"/>
